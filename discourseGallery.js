@@ -70,4 +70,4 @@ window.discourseGallery = (function($){
         loadCategoryGallery: loadCategoryGallery
     }
 
-})(jQuery, window.discourse);
+})(jQuery);
